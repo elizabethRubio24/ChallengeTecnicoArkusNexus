@@ -1,0 +1,20 @@
+Url Dockers Publicos:
+
+https://hub.docker.com/r/elizabeth24/arkusnexuschallenge  --> Contenedor con el backend
+https://hub.docker.com/r/elizabeth24/crudfront -->Contenedor con el frontend
+https://hub.docker.com/r/elizabeth24/mysql --> Contenedor con la configuracion de mysql
+
+Al ejecutar contenedores la documentacion swagger será:
+http://localhost:18080/swagger-ui/index.html
+
+Repositorios Git:
+
+https://github.com/elizabethRubio24/ChallengeTecnicoArkusNexus/
+
+Notas:
+
+Ya existe un usuario en base de datos para las pruebas:
+
+Usuario:superadmin
+Password: superadmin
+
